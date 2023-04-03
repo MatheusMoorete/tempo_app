@@ -1,19 +1,20 @@
-# Consultor do clima e tempo
+<h1> Clima App </h1>
+
 #### Uma aplicação para consulta do clima e temperatura de qualquer cidade do mundo.
 
 ## Demonstração:
 
 ## Ferramenta utilizadas:
 
-  *HTML;
+  * HTML;
   
-  *CSS;
+  * CSS;
   
-  *JavaScript;
+  * JavaScript;
   
-  *FlexBox;
+  * FlexBox;
   
-  *OpenWeatherMap API.
+  * OpenWeatherMap API.
   
   *Responsividade.
 
