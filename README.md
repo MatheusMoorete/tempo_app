@@ -19,7 +19,7 @@
   
   * OpenWeatherMap API.
   
-  *Responsividade.
+  * Responsividade.
 
 ## Feito por:
 
