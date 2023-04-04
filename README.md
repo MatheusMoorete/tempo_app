@@ -21,7 +21,7 @@
   
   * Responsividade.
 
-## Feito por:
+## Desenvolvido por:
 
 #### Matheus Morete Espinoso
 
