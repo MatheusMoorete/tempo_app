@@ -1,4 +1,4 @@
-<h1> Clima App </h1>
+<h1> Clima App :cloud_with_rain: </h1>
 
 #### Uma aplicação para consulta do clima e temperatura de qualquer cidade do mundo.
 
