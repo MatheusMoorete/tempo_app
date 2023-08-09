@@ -25,4 +25,4 @@
 
 #### Matheus Morete Espinoso
 
-#### Linkedin: https://www.linkedin.com/in/matheus-moorete/
+#### LinkedIn: [Matheus Moorete](https://www.linkedin.com/in/matheus-moorete/)
